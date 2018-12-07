@@ -1,0 +1,26 @@
+.container-1{
+    max-width: 960px;
+    margin: 0 auto;
+    background: #f9f9f9;
+    font-size: 24px;
+    padding: 25px;
+}
+
+
+.parallax-container-1{
+    background: url('paris-2.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+
+
+.container-main{
+    background-color: bisque;
+
+}
+
+.h2{
+    text-align: center;
+}
